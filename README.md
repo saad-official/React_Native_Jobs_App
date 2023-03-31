@@ -1,7 +1,15 @@
 This app help us to see all of those Tech Jobs which is posted in many website Like Upwork, Glassdoor, Indeed in a single app with includes many other Features 🚀!!.
 
-<img src="https://user-images.githubusercontent.com/109628645/229204245-8554e3f4-7f8f-431c-8ee9-ac00ce1e55b3.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/109628645/229204245-8554e3f4-7f8f-431c-8ee9-ac00ce1e55b3.png" width="350" height="600" />
 
+<img src="https://user-images.githubusercontent.com/109628645/229204782-10acb908-897d-4727-957c-82faf92e06c0.png" width="350" height="600" />
+
+<img src="https://user-images.githubusercontent.com/109628645/229204782-10acb908-897d-4727-957c-82faf92e06c0.png" width="350" height="600"/>
+
+<img src="https://user-images.githubusercontent.com/109628645/229204782-10acb908-897d-4727-957c-82faf92e06c0.png"  width="350" height="600" />
+
+<img src="https://user-images.githubusercontent.com/109628645/229204782-10acb908-897d-4727-957c-82faf92e06c0.png"  width="350" height="600" />
+ 
 ![Screenshot_20230331-201945](https://user-images.githubusercontent.com/109628645/229204782-10acb908-897d-4727-957c-82faf92e06c0.png)
 
 ![Screenshot_20230331-202302](https://user-images.githubusercontent.com/109628645/229204809-b1b4a3a5-4cc1-4f99-8eef-eab153e11b2f.png)
